@@ -1,0 +1,7 @@
+2025-11-15 22:04:49,011 - __main__ - ERROR - Ошибка при загрузке ../data/data_raw.csv: Файл ../data/data_raw.csv не найден.
+2025-11-15 22:04:49,023 - __main__ - ERROR - Ошибка при загрузке ../data/final_results_to_analyze.xlsx: Файл ../data/final_results_to_analyze.xlsx не найден.
+2025-11-15 22:05:23,486 - __main__ - ERROR - Ошибка при загрузке ../data/data_raw.csv: Файл ../data/data_raw.csv не найден.
+2025-11-15 22:05:23,499 - __main__ - ERROR - Ошибка при загрузке ../data/final_results_to_analyze.xlsx: Файл ../data/final_results_to_analyze.xlsx не найден.
+2025-11-15 22:16:24,215 - __main__ - ERROR - Ошибка в анализе pre-period: 'cnt_view_ads'
+2025-11-15 22:16:24,217 - __main__ - ERROR - Ошибка в расчете MDE: 'cnt_adds_ads'
+2025-11-15 22:16:24,442 - __main__ - ERROR - Ошибка в анализе результатов A/B: 'cnt_view_ads'
